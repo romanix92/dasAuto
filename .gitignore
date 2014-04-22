@@ -1,3 +1,9 @@
 bin/
 build/
 dasAuto
+*.swp
+*.swo
+*~
+*.kdev4
+*.tar.*
+*.zip
