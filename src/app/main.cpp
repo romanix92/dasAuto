@@ -1,7 +1,7 @@
 #include <iostream>
 #include <unistd.h>
-#include "3rdparty/gpio/GPIO/GPIOManager.h"
-#include "3rdparty/gpio/GPIO/GPIOConst.h"
+#include <GPIOManager.h>
+#include <GPIOConst.h>
 
 
 int main()
