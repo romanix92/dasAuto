@@ -1,3 +1,3 @@
 [submodule "src/3rdparty/gpio"]
 	path = src/3rdparty/gpio
-	url = https://github.com/BeagleBoneBlack-GPIO.git
+	url = https://github.com/MeshingGears/BeagleBoneBlack-GPIO.git
